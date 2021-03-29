@@ -16,7 +16,7 @@ body {
   overflow: scroll;
   max-height: 100vh;
   background-color: #0b1c2f;
-  font-family: 'Arvo', serif;
+  font-family: "apercu",sans-serif;
   font-weight: 600;
   line-height: 20px;
   color: #333;
@@ -69,7 +69,7 @@ body {
 
 .bio {
   margin-bottom: 40px;
-  font-family: 'Arvo', serif; 
+  font-family: "apercu",sans-serif;
   color: #848d96;
   font-size: 20px;
   line-height: 140%;
@@ -93,7 +93,7 @@ body {
   text-transform: uppercase;
 }
 .list {
-  font-family: 'Arvo', serif; 
+  font-family: "apercu",sans-serif;
   color: #848d96;
   font-size: 16px;
   line-height: 160%;
@@ -102,7 +102,7 @@ body {
 .credit {
   color: #485462;
   font-size: 13px;
-  font-family: 'Arvo', serif; 
+  font-family: "apercu",sans-serif;
 }
 
 .rightcontent {
